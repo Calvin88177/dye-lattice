@@ -1,10 +1,10 @@
-   simulation/cp_sim
-   simulation/out/
-   *.runs
-   *.aux
-   *.log
-   *.fls
-   *.fdb_latexmk
-   *.out
-   __pycache__/
-   coupling/fluopy/
+simulation/cp_sim
+simulation/out/
+*.runs
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+__pycache__/
+coupling/fluopy/
